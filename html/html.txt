@@ -1,0 +1,3 @@
+关于页面跳转一般采用js跳转，动态的，但是html也支持跳转：
+    <meta http-equiv="Refresh" content="0.1; Url=http://www.baidu.com">
+
